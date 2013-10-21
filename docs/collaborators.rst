@@ -54,3 +54,12 @@ Potential contributors/participants
     * Promoting Technology in Africa through `OpenIt4Africa
       <http://www.openit4africa.org>`_
     * interested in free software
+    
+    .. _aron_ahmadia:
+
+* `Aron Ahmadia <http://aron.ahmadia.net>`_
+
+    * Research Scientist
+    * Member of `NumFOCUS<http://numfocus.org>`_
+    * Core contributor to and instructor for `Software Carpentry<http://software-carpentry.org/>`_
+    
